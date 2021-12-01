@@ -1,5 +1,5 @@
 # pmwebsite
-Source for my website
+Source for my website & painting images
 
 My website: https://pollomoolokki.tez.page/
 
