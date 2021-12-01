@@ -20,13 +20,18 @@ line-height: 1.5;
 body p {
   max-width: 80%;
 }
+img.face {
+	width: 80px;
+	height: 120px;
+	}
+
 img.high_h {
-	width: 480px;
-	height: 640px;
+	width: 320px;
+	height: 480px;
 	}
 img.wide_w {
-	width: 640px;
-	height: 480px;
+	width: 480px;
+	height: 320px;
 	}
 
 a:link {  /* unused link */
