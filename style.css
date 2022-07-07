@@ -2,8 +2,32 @@ div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
-  width: 180px;
+  width: 21%;
+  height: 700px;
 }
+
+div.gallery_h {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 21%;
+  height: 700px;
+}
+
+div.gallery_w {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 25%;
+  height: 450px;
+}
+
+div.wrap {
+  float: left;
+  width: auto;
+  padding: 10px;
+}
+
 
 div.gallery:hover {
   border: 1px solid #777;
@@ -14,9 +38,15 @@ div.gallery img {
   height: auto;
 }
 
+div.gallery_w img {
+  width: 100%;
+  height: auto;
+}
+
 div.desc {
-  padding: 15px;
+  padding: 5px;
   text-align: center;
+  height: 50px;
 }
 
 body.fpage {
