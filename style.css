@@ -3,7 +3,7 @@ div.gallery {
   border: 1px solid #ccc;
   float: left;
   width: 21%;
-  height: 700px;
+  height: auto;
 }
 
 div.gallery_h {
@@ -11,7 +11,7 @@ div.gallery_h {
   border: 1px solid #ccc;
   float: left;
   width: 21%;
-  height: 700px;
+  height: auto;
 }
 
 div.gallery_w {
@@ -19,7 +19,7 @@ div.gallery_w {
   border: 1px solid #ccc;
   float: left;
   width: 25%;
-  height: 450px;
+  height: auto;
 }
 
 div.wrap {
